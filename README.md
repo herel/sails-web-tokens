@@ -1,3 +1,3 @@
 # sails-web-tokens
 
-a [Sails](http://sailsjs.org) application
+mas informacion en http://herelodin.com/como-crear-sesiones-con-tokens-sails-y-redis/
